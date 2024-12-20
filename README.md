@@ -6,6 +6,6 @@ Pour la question 1 nous avons simplement fait en sorte de séparer les arguments
 
 Pour la question 2 nous nous servons de ce que nous avions fait en TD de programmation système. Nous pouvons récuperer les informations de notre serveur comme son protocole, sa famille et le socktype.
 
-Pour la question 3 nous devions réserver un socket de connexion vers le serveur. Ce dernier est visible sur wireshark si nous mettons une adresse comme www.ensea.fr. Nous pouvons voir les requêtes en protocle DNS pour l'instant.
+Pour la question 3 nous devions réserver un socket de connexion vers le serveur. Nous pouvions voir l'adresse du socket sur wireshark avec un protocole DNS montrant que le socket est bien reservé. 
 
 Pour la question 4 
